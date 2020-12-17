@@ -1,5 +1,10 @@
 # Tutorial de Behave para el “juego 21” o BlackJack
 
+## Participantes
+Luis Daniel Hormiga González 20172020026  
+Javier Andrés Aponte Quevedo 20172020036  
+Julian David Rincon Castro 20172020125  
+
 ## Introducción
 
 La evaluación de comportamiento significa que debemos examinar cómo se comporta una aplicación a la hora de ejecutar una orden, la manera en que se ejecutan los algoritmos y el resultado de cada acción. Esto describe la funcionalidad de la aplicación y nosotros escribimos código que cumple con estas especificaciones.
