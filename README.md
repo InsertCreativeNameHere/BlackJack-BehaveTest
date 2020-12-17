@@ -111,7 +111,7 @@ imagen aqui
 imagen aqui
 imagen aqui
 
-##Resultado
+## Resultado
 
 imagen aqui
 
